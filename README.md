@@ -1,1 +1,1 @@
-# svelte-test
+# Learning Svelte
